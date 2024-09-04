@@ -20,15 +20,7 @@ This project is a clone of the SpaceX website, built using HTML, CSS, and JavaSc
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spacex-website-clone.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd spacex-website-clone
-   ```
-3. Open `index.html` in your browser to view the website.
+1. Open https://kunalsingh026.github.io/Space-X/ in your browser to view the website.
 
 ## Usage
 
