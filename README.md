@@ -40,18 +40,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by the official [SpaceX website](https://www.spacex.com/).
 - Special thanks to all the tutorials and resources that helped in building this project.
-
----
-
-Feel free to customize this content to better fit your project specifics! If you need any more details or adjustments, let me know. 🚀
-
-Source: Conversation with Copilot, 4/9/2024
-(1) SpaceX Website Clone - HTML, CSS & JavaScript - YouTube. https://www.youtube.com/watch?v=wryPX7KSwSc.
-(2) SpaceX Website Redesigned: HTML, CSS & JS Magic in Monochrome! 🚀✨. https://www.youtube.com/watch?v=3yCFzF3vdkc.
-(3) Spacex clone with HTML, CSS and JS (tutorial for beginners). https://www.youtube.com/watch?v=K6iOMGYpB1w.
-(4) GitHub - adithyaabinoy/SpaceX-Website-Clone: The SpaceX Clone website .... https://github.com/adithyaabinoy/SpaceX-Website-Clone.
-(5) Improved website layout and design using HTML, Bootstrap, CSS, and .... https://github.com/garvit1909/SpaceX-clone.
-(6) undefined. http://hostinger.com/traversymedia.
-(7) undefined. https://github.com/bradtraversy/space.
-(8) undefined. https://traversydemo.dev.
-(9) undefined. https://traversymedia.com.
